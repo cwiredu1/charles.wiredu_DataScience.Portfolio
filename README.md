@@ -4,6 +4,8 @@ Repository containing portfolio of data science projects completed by me for aca
 The R portfolio is located here...
 
 # Instruction for Running Python Notebook Locally
+
 •	Install all dependencies using requirement.txt
+
 • Run notebooks as usual by using a jupyter notebook server or using ! git clone[repository link..]
 
