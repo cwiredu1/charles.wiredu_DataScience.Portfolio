@@ -13,7 +13,7 @@ The R portfolio is located here...
 
 • Machine Learning
 
-• Data Analysis/ Visualization
+• Data Analysis and Visualization
 
 • Natural Language Processing
 
