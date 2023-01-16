@@ -9,3 +9,17 @@ The R portfolio is located here...
 
 • Run notebooks as usual by using a jupyter notebook server or using ! git clone[repository link..]
 
+# Content
+
+• Machine Learning
+
+• Data Analysis/ Visualization
+
+• Natural Language Processing
+
+    • Python
+    
+    • R
+    
+• Micro Projects:
+
