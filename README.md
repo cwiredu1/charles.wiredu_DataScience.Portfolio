@@ -11,16 +11,18 @@ The R portfolio is located here...
 
 # Content
 
-• Machine Learning
-    • predicting Boston House Prices :  A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
-
-• Data Analysis and Visualization
-
-• Natural Language Processing
-
-    • Python
+* Machine Learning
+    * Predicting California House Prices :  
+    A model to predict the value of a given house in the Boston real estate market using various statistical analysis tools. Identified the best price that a client can sell their house utilizing machine learning.
     
-    • R
+    * Loan Default Prediction :  
+    In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to accurately detect and classify consumers who    will default the loan. 
+
+* Data Analysis and Visualization
+    * Python
     
-• Micro Projects:
+    * R
+* Natural Language Processing
+
+* Micro Projects:
 
